@@ -1,4 +1,4 @@
 <script>
-  let a = "hello"
+  let a = "hello";
 alert(a);
   </script>
