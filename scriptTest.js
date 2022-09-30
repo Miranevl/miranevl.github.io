@@ -1,4 +1,4 @@
 <script>
-  let a = "hello";
+  let a = "zdarova epta";
 alert(a);
   </script>
